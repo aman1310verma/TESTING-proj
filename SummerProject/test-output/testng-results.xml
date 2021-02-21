@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25384" started-at="2021-01-19T17:31:57Z" finished-at="2021-01-19T17:32:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25384" started-at="2021-01-19T17:31:57Z" finished-at="2021-01-19T17:32:23Z">
+      <class name="automationFramework.SparkFoundationTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:automationFramework.SparkFoundationTest@25a98f]" name="setUp" is-config="true" duration-ms="13271" started-at="2021-01-19T17:31:57Z" finished-at="2021-01-19T17:32:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="pageOne()[pri:0, instance:automationFramework.SparkFoundationTest@25a98f]" name="pageOne" duration-ms="1197" started-at="2021-01-19T17:32:11Z" finished-at="2021-01-19T17:32:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageOne -->
+        <test-method status="PASS" signature="pageTwo()[pri:1, instance:automationFramework.SparkFoundationTest@25a98f]" name="pageTwo" duration-ms="862" started-at="2021-01-19T17:32:12Z" finished-at="2021-01-19T17:32:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTwo -->
+        <test-method status="PASS" signature="pageThree()[pri:2, instance:automationFramework.SparkFoundationTest@25a98f]" name="pageThree" duration-ms="4108" started-at="2021-01-19T17:32:13Z" finished-at="2021-01-19T17:32:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageThree -->
+        <test-method status="PASS" signature="pageFour()[pri:3, instance:automationFramework.SparkFoundationTest@25a98f]" name="pageFour" duration-ms="1712" started-at="2021-01-19T17:32:17Z" finished-at="2021-01-19T17:32:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageFour -->
+        <test-method status="PASS" signature="pageFive()[pri:4, instance:automationFramework.SparkFoundationTest@25a98f]" name="pageFive" duration-ms="3009" started-at="2021-01-19T17:32:18Z" finished-at="2021-01-19T17:32:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageFive -->
+        <test-method status="PASS" signature="burnDown()[pri:0, instance:automationFramework.SparkFoundationTest@25a98f]" name="burnDown" is-config="true" duration-ms="1161" started-at="2021-01-19T17:32:21Z" finished-at="2021-01-19T17:32:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- burnDown -->
+      </class> <!-- automationFramework.SparkFoundationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
